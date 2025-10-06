@@ -26,7 +26,7 @@ I ended up not using it, but since it might be useful to someone else, here it i
 
 ## 🧰 How to Use
 
-1. **Download the latest release:**  
+1. **Download the latest .exe in the assets**  
    👉 [Download](https://github.com/MrBoxik/Folder-Tree-Viewer/releases/tag/1.0)
 
 2. **Run the app:**  
