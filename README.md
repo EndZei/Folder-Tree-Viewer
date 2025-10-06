@@ -27,7 +27,7 @@ I ended up not using it, but since it might be useful to someone else, here it i
 ## 🧰 How to Use
 
 1. **Download the latest release:**  
-   👉 [Releases Page](../../releases/latest)
+   👉 [Releases Page]([../../releases/latest](https://github.com/MrBoxik/Folder-Tree-Viewer/releases/tag/1.0))
 
 2. **Run the app:**  
    Just open the `.exe` file — no install needed.
