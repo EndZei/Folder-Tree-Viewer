@@ -33,7 +33,7 @@ I ended up not using it, but since it might be useful to someone else, here it i
    Just open the `.exe` file — no install needed.
 
 3. **Browse a folder or drive:**  
-   Click *Browse*, or select one of the drives under *This PC*.
+   Click *Browse*, and select a folder.
 
 4. **Explore, search, and visualize your files.**
 
