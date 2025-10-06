@@ -39,6 +39,12 @@ I ended up not using it, but since it might be useful to someone else, here it i
 
 ---
 
+## 📸 Application Preview
+
+![Folder Tree Viewer Screenshot](Photo.png)
+
+---
+
 ## 💬 Feedback or Questions?
 
 You can leave feedback [here on GitHub](https://github.com/MrBoxik/SnowRunner-Save-Editor/issues) — but I’m not going to be super active here.  
