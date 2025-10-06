@@ -4,10 +4,14 @@ Here’s an app I coded — it shows all files in a selected folder in a clean *
 Originally, I made it for my *SnowRunner Save Editor* to help me visualize file structures of all the version of it.  
 I ended up not using it tho... but since it might be useful to someone else, here it is.  
 
+## 🧩 Download
+
+**Download the latest .exe in the assets**  
+   👉 [Download](https://github.com/MrBoxik/Folder-Tree-Viewer/releases/tag/1.0)
+
 ---
 
 ## 🧩 Features
-
 
 - 📁 **Tree View of Files and Folders**  
 - 🌈 **Extension-Based Color Highlighting**  
@@ -20,22 +24,6 @@ I ended up not using it tho... but since it might be useful to someone else, her
 - 💾 **Persistent Settings**  
 - 🧠 **Threaded Operations**  
 - 🔒 **Crash Protection & Error Handling**
-
-
----
-
-## 🧰 How to Use
-
-1. **Download the latest .exe in the assets**  
-   👉 [Download](https://github.com/MrBoxik/Folder-Tree-Viewer/releases/tag/1.0)
-
-2. **Run the app:**  
-   Just open the `.exe` file — no install needed.
-
-3. **Browse a folder or drive:**  
-   Click *Browse*, and select a folder.
-
-4. **Explore, search, and visualize your files.**
 
 ---
 
