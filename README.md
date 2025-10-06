@@ -45,7 +45,9 @@ If you want to build or modify it yourself:
 
 ```bash
 pip install PySide6 psutil
-python tree.py ```
+python tree.py
+
+---
 
 ## 💬 Feedback or Questions?
 
