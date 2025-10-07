@@ -43,7 +43,7 @@ You’ll have better chances of getting a reply if you message me on [Discord](h
 
 ## ☕ Support
 
-If this save editor helped you and you want to say thanks, you can [buy me a coffee](https://buymeacoffee.com/mrboxik).  
+If this helped you and you want to say thanks, you can [buy me a coffee](https://buymeacoffee.com/mrboxik).  
 Totally optional, just appreciated. ❤️
 
 ---
